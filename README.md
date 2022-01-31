@@ -1,2 +1,2 @@
 # stepik_auto_test
-Homework
+All about homework
